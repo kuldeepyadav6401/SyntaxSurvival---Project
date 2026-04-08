@@ -1,0 +1,2 @@
+# SyntaxSurvival---Project
+First hackthon
